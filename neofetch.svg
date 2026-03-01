@@ -1,0 +1,83 @@
+<svg fill="none" viewBox="0 0 800 250" width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'JetBrains Mono', monospace;
+          background: #0d1117;
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+          height: 250px;
+          border: 1px solid #7000ff;
+          box-shadow: 0 0 10px #7000ff, inset 0 0 5px #00f2ff;
+          position: relative;
+          overflow: hidden;
+          color: #fff;
+          padding: 0 20px;
+        }
+
+        /* Сканирующая линия */
+        .scanline {
+          width: 100%; height: 2px; background: rgba(0, 242, 255, 0.1);
+          position: absolute; animation: scan 4s linear infinite; top: 0;
+        }
+        @keyframes scan { from { top: 0; } to { top: 100%; } }
+
+        /* Стилизация Neofetch */
+        .neofetch-wrapper { display: flex; gap: 30px; align-items: center; z-index: 2; }
+        
+        .logo { color: #00f2ff; font-size: 1.2rem; line-height: 1.1; font-weight: bold; }
+        .logo .purple { color: #7000ff; }
+        
+        .stats { font-size: 1.1rem; line-height: 1.4; }
+        .header { color: #00f2ff; font-weight: bold; margin-bottom: 5px; }
+        .label { color: #7000ff; font-weight: bold; }
+
+        /* Глитч для логотипа */
+        .glitch-logo {
+          animation: logo-skew 4s infinite;
+        }
+        @keyframes logo-skew {
+          0%, 90%, 100% { transform: skew(0deg); }
+          91% { transform: skew(10deg); color: #ff00c1; }
+          93% { transform: skew(-10deg); }
+        }
+      </style>
+      
+      <div class="container">
+        <div class="scanline"></div>
+        
+        <div class="neofetch-wrapper">
+          <div class="logo glitch-logo">
+            <pre>
+      ▄██████▄          <span class="purple">▄</span>
+     ███▀  ▀███       <span class="purple">▄█▀ ▄██████▄</span>
+     ███    ███     <span class="purple">▄█▀   ███    ▀██▄</span>
+     ███    ███   <span class="purple">▄█▀     ███     ███</span>
+     ███    ███ <span class="purple">▄█▀       ███     ███</span>
+     ███▄  ▄███<span class="purple">█▀         ███    ▄██▀</span>
+      ▀██████▀          <span class="purple">▀███████▀</span>
+            </pre>
+          </div>
+
+          <div class="stats">
+            <div class="header">guest@ZeroDivision</div>
+            <div>-----------------------</div>
+            <div><span class="label">OS:</span> Manjaro Linux x86_64</div>
+            <div><span class="label">HOST:</span> manjaro-workstation</div>
+            <div><span class="label">KERNEL:</span> LDD3_Certified</div>
+            <div><span class="label">SHELL:</span> /bin/zsh</div>
+            <div><span class="label">UPTIME:</span> 100%</div>
+            <div style="margin-top:10px;">
+              <span style="background:#00f2ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
+              <span style="background:#7000ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
+              <span style="background:#ff00c1; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
+              <span style="border:1px solid #fff; display:inline-block; width:15px; height:15px;"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
