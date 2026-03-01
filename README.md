@@ -4,27 +4,15 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>System Information</h2>
-      <p><b>Engineer & Architect</b> specialized in Linux Kernel, Networking, and DevOps Infrastructure. Focused on high-performance systems and secure communication protocols.</p>
-      <p>
-        Currently developing <b>Heimdall</b> (Secure Access Infrastructure) and 
-        <b>Celeston</b> (High-end Digital Cultural Hub).
-      </p>
-    </td>
-    <td width="40%" valign="top">
-      <pre align="left">
-<b>USER:</b> guest
-<b>HOST:</b> manjaro-workstation
-<b>UPTIME:</b> 100%
-<b>SHELL:</b> /bin/zsh
-<b>KERNEL:</b> LDD3_Certified
-      </pre>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="neofetch.svg" width="800" />
+</p>
+
+<p align="left">
+  <b>Engineer & Architect</b> specialized in Linux Kernel, Networking, and DevOps Infrastructure. 
+  Focused on high-performance systems and secure communication protocols.
+  Currently developing <b>Heimdall</b> (Secure Access Infrastructure) and <b>Celeston</b> (High-end Digital Cultural Hub).
+</p>
 
 ---
 
