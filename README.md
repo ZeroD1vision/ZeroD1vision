@@ -34,14 +34,18 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/ZeroD1vision/Celeston-Theatre/raw/main/src/client/public/logo-gold.jpeg" width="100%" alt="Celeston Logo"/>
+      <a href="https://github.com/ZeroD1vision/Celeston-Theatre" target="_blank">
+        <img src="https://github.com/ZeroD1vision/Celeston-Theatre/raw/main/src/client/public/logo-gold.jpeg" width="100%" alt="Celeston Logo">
+      </a>
       <br>
       <h3>Celeston — Cultural Hub</h3>
       <p>A premium cinema-theatre ecosystem prototype. A bridge between cinematic magic and restaurant-level hospitality.</p>
       <p><i>Stack: React, JS, Go, PostgreSQL</i></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/ZeroD1vision/heimdallr-proxy/raw/main/assets/logo/logo-black.jpeg" width="100%" alt="Heimdallr Logo"/>
+      <a href="https://github.com/ZeroD1vision/heimdallr-proxy" target="_blank">
+        <img src="https://github.com/ZeroD1vision/heimdallr-proxy/raw/main/assets/logo/logo-black.jpeg" width="100%" alt="Heimdallr Logo">
+      </a>
       <br>
       <h3>Heimdallr — Secure Gateway</h3>
       <p>Managed Security Service as a Product. Automated VLESS/Reality node provisioning with Telegram 2FA and real-time monitoring.</p>
