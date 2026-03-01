@@ -44,7 +44,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ZeroD1vision/heimdallr-proxy" target="_blank">
-        <img src="https://github.com/ZeroD1vision/heimdallr-proxy/raw/main/assets/logo/logo-black.jpeg" width="100%" alt="Heimdallr Logo">
+        <img src="https://github.com/ZeroD1vision/heimdallr-proxy/raw/main/assets/logo/logo-crop.jpeg" width="100%" alt="Heimdallr Logo">
       </a>
       <br>
       <h3>Heimdallr — Secure Gateway</h3>
