@@ -29,7 +29,7 @@
 
 ---
 
-## Featured Projects
+<img src="projects.svg" width="1000" />
 
 <table border="0">
   <tr>
