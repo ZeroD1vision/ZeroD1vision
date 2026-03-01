@@ -16,10 +16,10 @@
 
 ---
 
-## Technical Stack & Core Competencies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,asm,go,linux,bash,docker,nginx,postgres,githubactions,jenkins,vue,react,js,ts&theme=dark" />
+</p>
+<p align="center">
+  <img src="skills.svg" width="1000" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,linux,bash,docker,nginx,postgres,githubactions,jenkins,vue,react,js,ts&theme=dark" />
 </p>
 
 * **Low-Level:** Linux Device Drivers (LDD3), Kernel Modules, Assembly (x86/x64).
