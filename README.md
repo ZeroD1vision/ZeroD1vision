@@ -40,7 +40,7 @@
       <br>
       <h3>Celeston — Cultural Hub</h3>
       <p>A premium cinema-theatre ecosystem prototype. A bridge between cinematic magic and restaurant-level hospitality.</p>
-      <p><i>Stack: React, JS, Go, PostgreSQL</i></p>
+      <p><i>Stack: React, JS, Go, PostgreSQL, Docker, Docker-Compose</i></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ZeroD1vision/heimdallr-proxy" target="_blank">
@@ -48,9 +48,8 @@
       </a>
       <br>
       <h3>Heimdallr — Secure Gateway</h3>
-      <p>Managed Security Service as a Product. Automated VLESS/Reality node provisioning with Telegram 2FA and real-time monitoring.</p>
-      <p><i>Stack: Golang, Docker, Telegram API, React, TS</i></p>
-    </td>
+      <p>Managed Security Service as a Product. Automated Xray-core node provisioning with Telegram 2FA and real-time traffic monitoring.</p>
+      <p><i>Stack: Go (Echo, gRPC), SQLite, Next.js (TypeScript), XState v5</i></p>
   </tr>
 </table>
 
