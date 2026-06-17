@@ -49,7 +49,7 @@
       <br>
       <h3>Heimdallr — Secure Gateway</h3>
       <p>Managed Security Service as a Product. Automated VLESS/Reality node provisioning with Telegram 2FA and real-time monitoring.</p>
-      <p><i>Stack: Golang, Docker, Telegram API, Vue 3, TS</i></p>
+      <p><i>Stack: Golang, Docker, Telegram API, React, TS</i></p>
     </td>
   </tr>
 </table>
