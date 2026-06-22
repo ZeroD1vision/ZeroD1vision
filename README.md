@@ -28,8 +28,9 @@
 * **Design & UI:** Vector Branding, Typography, React, Vue 3, JavaScript, TypeScript.
 
 ---
-
-<img src="projects.svg" width="1000" />
+<p align="center">
+  <img src="projects.svg" width="1000" />
+</p>
 
 <table border="0">
   <tr>
@@ -63,6 +64,21 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroD1vision&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="center">
+  <img src="education.svg" width="1000" />
+</p>
+
+* **University:** Moscow Aviation Institute (National Research University)
+* **Faculty:** Institute No. 3 "Control Systems, Computer Science and Power Engineering"
+* **Department:** Department 304 "Computational Mathematics and Programming"
+* **Degree & Major:** Bachelor's in Software Engineering (09.03.04)
+* **Timeline:** 2024 — Present
+* **Current Focus:** Deep dive into SRE methodology, Linux Kernel internals, and Distributed Infrastructure systems.
+
+* **Looking For:** Junior DevOps / SRE / Platform Engineering positions with high-load infrastructure to apply my system-level knowledge in production.
 
 ---
 
