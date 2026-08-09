@@ -56,7 +56,7 @@
 
 ---
 
-## Activity & System Metrics
+## Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeroD1vision&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
