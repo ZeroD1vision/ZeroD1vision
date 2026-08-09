@@ -41,7 +41,7 @@
       <br>
       <h3>Celeston — Cultural Hub</h3>
       <p>A premium cinema-theatre ecosystem prototype. A bridge between cinematic magic and restaurant-level hospitality.</p>
-      <p><i>Stack: React, JS, Go, PostgreSQL, Docker, Docker-Compose</i></p>
+      <p><i>Stack: React, JS, Go, PostgreSQL, Docker-Compose</i></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ZeroD1vision/heimdallr-proxy" target="_blank">
