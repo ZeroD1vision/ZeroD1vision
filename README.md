@@ -50,7 +50,7 @@
       <br>
       <h3>Heimdallr — Secure Gateway</h3>
       <p>Managed Security Service as a Product. Automated Xray-core node provisioning with Telegram 2FA and real-time traffic monitoring.</p>
-      <p><i>Stack: Go (Echo, gRPC), SQLite, Next.js (TypeScript), XState v5</i></p>
+      <p><i>Stack: Go (Echo), gRPC, WebSocket, SQLite, Next.js (TypeScript), XState v5</i></p>
   </tr>
 </table>
 
