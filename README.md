@@ -9,9 +9,9 @@
 </p>
 
 <p align="left">
-  <b>Engineer & Architect</b> specialized in Linux Kernel, Networking, and DevOps Infrastructure. 
-  Focused on high-performance systems and secure communication protocols.
-  Currently developing <b>Heimdall</b> (Secure Access Infrastructure) and <b>Celeston</b> (High-end Digital Cultural Hub).
+  I am an <b>engineer</b> specialized in Linux Kernel, Networking, and DevOps Infrastructure. 
+  Highly focused on DevOps and SysAdmin branches of an IT world.
+  Currently developing <b>Heimdall</b> (Secure Access Infrastructure).
 </p>
 
 ---
@@ -22,10 +22,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,go,linux,bash,docker,nginx,postgres,githubactions,jenkins,vue,react,js,ts&theme=dark" />
 </p>
 
-* **Low-Level:** Linux Device Drivers (LDD3), Kernel Modules, Assembly (x86/x64).
-* **Infrastructure:** Kubernetes (Core Architecture), Docker, CI/CD Pipelines (GH Actions, GitLab CI, Jenkins).
+* **Low-Level:** Linux Device Drivers (LDD3 book), Kernel Modules, Assembly (x86/x64).
+* **Infrastructure:** Kubernetes (Core Architecture), Docker, CI/CD (GH Actions, GitLab CI, Jenkins).
 * **Networking:** VLESS/Reality protocols, DPI-obfuscation, Networking stack optimization.
-* **Design & UI:** Vector Branding, Typography, React, Vue 3, JavaScript, TypeScript.
+* **Design and UI:** Vector Branding, Typography, React, Vue 3, JavaScript, TypeScript.
 
 ---
 <p align="center">
