@@ -17,14 +17,14 @@
           padding: 0 20px;
         }
 
-        /* Сканирующая линия */
+        /* Линия, типа олдовый экранчик */
         .scanline {
           width: 100%; height: 2px; background: rgba(0, 242, 255, 0.1);
           position: absolute; animation: scan 4s linear infinite; top: 0;
         }
         @keyframes scan { from { top: 0; } to { top: 100%; } }
 
-        /* Стилизация Neofetch */
+        /* Стиль под Neofetch */
         .neofetch-wrapper { display: flex; gap: 30px; align-items: center; z-index: 2; }
         
         .logo { color: #00f2ff; font-size: 1.2rem; line-height: 1.1; font-weight: bold; }
@@ -34,7 +34,7 @@
         .header { color: #00f2ff; font-weight: bold; margin-bottom: 5px; }
         .label { color: #7000ff; font-weight: bold; }
 
-        /* Глитч для логотипа */
+        /* Глюки */
         .glitch-logo {
           animation: logo-skew 4s infinite;
         }
@@ -68,7 +68,7 @@
             <div><span class="label">HOST:</span> manjaro-workstation</div>
             <div><span class="label">KERNEL:</span> LDD3_Certified</div>
             <div><span class="label">SHELL:</span> /bin/zsh</div>
-            <div><span class="label">UPTIME:</span> 100%</div>
+            <div><span class="label">UPTIME:</span> 99%</div>
             <div style="margin-top:10px;">
               <span style="background:#00f2ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
               <span style="background:#7000ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
