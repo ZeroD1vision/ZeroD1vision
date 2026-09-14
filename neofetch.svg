@@ -68,7 +68,7 @@
             <div><span class="label">HOST:</span> manjaro-workstation</div>
             <div><span class="label">KERNEL:</span> LDD3_Certified</div>
             <div><span class="label">SHELL:</span> /bin/zsh</div>
-            <div><span class="label">UPTIME:</span> 99%</div>
+            <div><span class="label">UPTIME:</span> 99% (rest is sleeping :|)</div>
             <div style="margin-top:10px;">
               <span style="background:#00f2ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
               <span style="background:#7000ff; display:inline-block; width:15px; height:15px; margin-right:5px;"></span>
