@@ -11,7 +11,6 @@
 <p align="left">
   I am an <b>engineer</b> specialized in Linux Kernel, Networking, and DevOps Infrastructure. 
   Highly focused on DevOps and SysAdmin branches of an IT world.
-  Currently developing <b>Heimdall</b> (Secure Access Infrastructure).
 </p>
 
 ---
